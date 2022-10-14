@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\bin\Debug\net6.0\evenorodd213.exe
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\bin\Debug\net6.0\evenorodd213.deps.json
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\bin\Debug\net6.0\evenorodd213.runtimeconfig.json
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\bin\Debug\net6.0\evenorodd213.dll
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\bin\Debug\net6.0\evenorodd213.pdb
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.AssemblyInfo.cs
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.dll
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\refint\evenorodd213.dll
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.pdb
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\evenorodd213.genruntimeconfig.cache
+C:\Users\DELL\source\repos\evenorodd213\evenorodd213\obj\Debug\net6.0\ref\evenorodd213.dll

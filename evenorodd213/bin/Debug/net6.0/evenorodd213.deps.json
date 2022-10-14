@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "evenorodd213/1.0.0": {
+        "runtime": {
+          "evenorodd213.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "evenorodd213/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
